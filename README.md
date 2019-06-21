@@ -12,4 +12,6 @@ Demo App Digitalent@amikom business park
   * Sdk android
   
 # cara menjalankan aplikasinya
-  Klik tombol run
+  * Clone this project
+  * Open project on android studio
+  * Click Run
